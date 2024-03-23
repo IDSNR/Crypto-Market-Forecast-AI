@@ -1,0 +1,1 @@
+I trained the model in google colab, if you want to train using this training model, please put this to google drive and put your data in the right file that is in the files
